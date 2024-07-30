@@ -1,0 +1,59 @@
+*{
+    margin: 0cm;
+    padding: 0px;
+}
+.head{
+    background-color: blue;
+    height: 100px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.inpt{
+    background-color: rgb(250, 202, 144);
+    height: 200px;
+    padding: 30px;
+}
+option{
+    padding: 200px;
+}
+.out{
+    background-color: rgb(142, 142, 228);
+    height: 200px;
+}
+.type{
+    margin-left: 200px;
+}
+.cl1{
+  margin-left: 70px;
+}
+.cl2{
+    margin-left: 500px;
+  }
+  input{
+    padding: 10px;
+    width: 250px;
+  }
+  #add{
+    background-color: blue;
+    height: 50px;
+    width: 180px;
+    border-radius: 10px;
+  }
+  th{
+    border: 1px solid black;
+    height: 10px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+  }
+  #table{
+    margin-left: 300px;
+    width: 800px;
+    height: 40px;
+  }
+  select{
+    padding: 10px;
+    width: 200px;
+  }
